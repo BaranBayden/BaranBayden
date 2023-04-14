@@ -1,11 +1,13 @@
 
-<h1 align="center"> Hello, I'm Baran BAYDEN</h1>
-<h3 align="center">🚀 Software Developer 🚀</h3>
+<h1 align="center"> This is Baran BAYDEN</h1>
+<h3 align="center">🚀 Computer Science and Economics Student 🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=BaranBayden" alt="BaranBayden" /> </p>
 
+**In God we trust. All others must bring data.**
+
 - 🔭 I’m currently studying at Denison University
-- 🌱 I’m currently working on Bayden Teknoloji
+- 🌱 Working on Bayden Teknoloji
 - 👯 I’m looking to collaborate on Web3.
 - 💬 Ask me about Web dev related Stuff
 - 📫 How to reach me:[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/baran-bayden-aa791373/) 

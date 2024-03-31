@@ -13,6 +13,8 @@
 - 📫 How to reach me:[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/baran-bayden-aa791373/) 
 , [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:baydenteknoloji.com)](mailto:baran@baydenteknoloji.com)
 
+Instagram: baran_bayden
+
 
 ----
 Credits: [BaranBayden](https://github.com/BaranBayden)

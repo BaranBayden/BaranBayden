@@ -1,5 +1,6 @@
-<head>
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-K3WDHGNV84"></script>
+<!--html_preserve-->
+  
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-K3WDHGNV84"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
@@ -7,6 +8,8 @@
 
   gtag('config', 'G-K3WDHGNV84');
 </script>
+
+<!--/html_preserve-->
 
 </head>
 <h1 align="center"> This is Baran BAYDEN</h1>

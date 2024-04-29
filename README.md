@@ -18,3 +18,13 @@ Instagram: baran_bayden
 
 ----
 Credits: [BaranBayden](https://github.com/BaranBayden)
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-K3WDHGNV84"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-K3WDHGNV84');
+</script>
